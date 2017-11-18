@@ -2,6 +2,10 @@
 argparse extension to allow command suggestions for invalid commands based on difflib closest_matches function.
 
 
+## Installation
+To install 
+```pip install suggestparse```
+
 ## Example
 ```python
 def test():
