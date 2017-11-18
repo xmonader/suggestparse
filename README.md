@@ -1,5 +1,5 @@
 # suggestparse
-argparse extension to allow command suggestions for invalid commands
+argparse extension to allow command suggestions for invalid commands based on difflib closest_matches function.
 
 
 ## Example
